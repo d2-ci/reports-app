@@ -18,7 +18,7 @@
     "name": "DHIS2"
   },
   "dhis2": {
-    "apiVersion": "31"
+    "apiVersion": "32"
   },
-  "manifest_generated_at": "Mon Mar 04 2019 09:52:01 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Thu Mar 07 2019 08:49:57 GMT+0000 (Coordinated Universal Time)"
 }
