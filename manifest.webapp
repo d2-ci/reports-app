@@ -7,11 +7,12 @@
     }
   },
   "appType": "APP",
-  "name": "DHIS2 Reports App",
-  "version": "1.0.0-beta.1",
-  "description": "DHIS2 reports App",
+  "name": "Reports App",
+  "version": "1.0.0",
+  "short_name": "Reports App",
+  "description": "Generate various types of reports",
   "icons": {
-    "48": "icon.png"
+    "48": "favicon-48x48.png"
   },
   "developer": {
     "url": "https://dhis2.github.io",
@@ -20,5 +21,8 @@
   "dhis2": {
     "apiVersion": "32"
   },
-  "manifest_generated_at": "Tue Apr 02 2019 10:30:55 GMT+0000 (Coordinated Universal Time)"
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "manifest_generated_at": "Tue Apr 02 2019 11:23:29 GMT+0000 (Coordinated Universal Time)"
 }
