@@ -19,10 +19,10 @@
     "name": "DHIS2"
   },
   "dhis2": {
-    "apiVersion": "33"
+    "apiVersion": "32"
   },
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone",
-  "manifest_generated_at": "Sat Jan 25 2020 11:20:21 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Tue Jan 28 2020 14:16:51 GMT+0000 (Coordinated Universal Time)"
 }
