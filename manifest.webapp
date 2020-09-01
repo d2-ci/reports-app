@@ -1,7 +1,7 @@
 {
   "appType": "APP",
-  "short_name": "reports-app",
-  "name": "reports-app",
+  "short_name": "reports",
+  "name": "Reports",
   "description": "",
   "version": "1.0.0",
   "launch_path": "index.html",
@@ -14,7 +14,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Tue Sep 01 2020 12:57:39 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Tue Sep 01 2020 13:01:34 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
