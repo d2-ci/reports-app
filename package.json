@@ -21,7 +21,7 @@
         "cypress:run": "yarn d2-utils-cypress run"
     },
     "devDependencies": {
-        "@dhis2/cli-app-scripts": "^5.1.0",
+        "@dhis2/cli-app-scripts": "^5.2.0",
         "@dhis2/cli-style": "^7.0.0",
         "@dhis2/cli-utils-cypress": "^2.2.1",
         "enzyme": "^3.11.0",
@@ -38,7 +38,7 @@
         "@dhis2/d2-ui-forms": "^7.0.5",
         "@dhis2/d2-ui-org-unit-tree": "^7.0.7",
         "@dhis2/d2-ui-sharing-dialog": "^7.0.5",
-        "@dhis2/d2-ui-table": "^7.0.5",
+        "@dhis2/d2-ui-table": "^7.0.7",
         "@dhis2/ui-core": "^4.1.1",
         "@dhis2/ui-widgets": "^2.0.5",
         "chart.js": "^2.7.3",
