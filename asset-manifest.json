@@ -272,8 +272,8 @@
     "moment-locales/zh-tw.js.map": "./static/js/moment-locales/zh-tw.4e08bf1b.chunk.js.map",
     "app.js": "./static/js/app.715e6bc6.chunk.js",
     "app.js.map": "./static/js/app.715e6bc6.chunk.js.map",
-    "main.js": "./static/js/main.8775268e.chunk.js",
-    "main.js.map": "./static/js/main.8775268e.chunk.js.map",
+    "main.js": "./static/js/main.a1ae7d51.chunk.js",
+    "main.js.map": "./static/js/main.a1ae7d51.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.101ad4c0.js",
     "runtime-main.js.map": "./static/js/runtime-main.101ad4c0.js.map",
     "static/css/138.305bd5a5.chunk.css": "./static/css/138.305bd5a5.chunk.css",
@@ -429,6 +429,6 @@
     "static/js/runtime-main.101ad4c0.js",
     "static/css/139.476fce4f.chunk.css",
     "static/js/139.d3c4c6e9.chunk.js",
-    "static/js/main.8775268e.chunk.js"
+    "static/js/main.a1ae7d51.chunk.js"
   ]
 }
