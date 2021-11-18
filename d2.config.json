@@ -1,0 +1,10 @@
+{
+  "type": "app",
+  "coreApp": true,
+  "title": "Reports",
+  "id": "68ecc707-bb8b-4b8b-b996-9038340a550b",
+  "minDHIS2Version": "2.33",
+  "name": "reports",
+  "version": "1.0.0",
+  "description": ""
+}
