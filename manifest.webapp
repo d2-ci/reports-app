@@ -1,5 +1,5 @@
 {
-  "app_hub_id": "68ecc707-bb8b-4b8b-b996-9038340a550b",
+  "app_hub_id": "b7e619e4-5b9f-4b8b-a4ff-9874f197ae39",
   "appType": "APP",
   "short_name": "reports",
   "name": "Reports",
@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Thu Nov 18 2021 12:46:04 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Nov 18 2021 12:48:14 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
