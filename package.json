@@ -1,6 +1,6 @@
 {
     "name": "reports-app",
-    "version": "1.0.0",
+    "version": "100.0.3",
     "description": "",
     "license": "BSD-3-Clause",
     "private": true,
@@ -21,8 +21,8 @@
         "cypress:run": "yarn d2-utils-cypress run"
     },
     "devDependencies": {
-        "@dhis2/cli-app-scripts": "^7.1.0",
-        "@dhis2/cli-style": "^7.3.0",
+        "@dhis2/cli-app-scripts": "7.8.0",
+        "@dhis2/cli-style": "^10.1.1",
         "@dhis2/cli-utils-cypress": "^2.2.1",
         "enzyme": "^3.11.0",
         "enzyme-adapter-react-16": "^1.15.4",
