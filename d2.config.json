@@ -6,5 +6,8 @@
   "minDHIS2Version": "2.33",
   "name": "reports",
   "version": "100.0.61",
-  "description": ""
+  "description": "",
+  "entryPoints": {
+    "app": "index.html"
+  }
 }
