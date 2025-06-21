@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.4536e618.css",
-    "main.js": "./static/js/main.32c5cb75.js",
-    "app.js": "./static/js/app.2fae8d9e.chunk.js",
+    "main.js": "./static/js/main.e923f8b6.js",
+    "app.js": "./static/js/app.65eff4a9.chunk.js",
     "moment-locales/af.js": "./static/js/moment-locales/af.ce0c32f9.chunk.js",
     "moment-locales/ar.js": "./static/js/moment-locales/ar.cfae42fa.chunk.js",
     "moment-locales/ar-dz.js": "./static/js/moment-locales/ar-dz.f3bd1c9c.chunk.js",
@@ -171,8 +171,8 @@
     "static/media/roboto-latin-900.woff2": "./static/media/roboto-latin-900.870c8c1486f76054301a.woff2",
     "index.html": "./index.html",
     "main.4536e618.css.map": "./static/css/main.4536e618.css.map",
-    "main.32c5cb75.js.map": "./static/js/main.32c5cb75.js.map",
-    "app.2fae8d9e.chunk.js.map": "./static/js/app.2fae8d9e.chunk.js.map",
+    "main.e923f8b6.js.map": "./static/js/main.e923f8b6.js.map",
+    "app.65eff4a9.chunk.js.map": "./static/js/app.65eff4a9.chunk.js.map",
     "af.ce0c32f9.chunk.js.map": "./static/js/moment-locales/af.ce0c32f9.chunk.js.map",
     "ar.cfae42fa.chunk.js.map": "./static/js/moment-locales/ar.cfae42fa.chunk.js.map",
     "ar-dz.f3bd1c9c.chunk.js.map": "./static/js/moment-locales/ar-dz.f3bd1c9c.chunk.js.map",
@@ -313,6 +313,6 @@
   },
   "entrypoints": [
     "static/css/main.4536e618.css",
-    "static/js/main.32c5cb75.js"
+    "static/js/main.e923f8b6.js"
   ]
 }
