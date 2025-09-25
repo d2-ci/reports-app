@@ -29,7 +29,13 @@
   },
   {
     "locale": "en",
-    "shortcuts": {},
+    "shortcuts": {
+      "Standard report": "Standard report",
+      "Data set report": "Data set report",
+      "Reporting rates summary": "Reporting rates summary",
+      "Resources": "Resources",
+      "Org unit distribution report": "Org unit distribution report"
+    },
     "title": "Reports",
     "description": ""
   },

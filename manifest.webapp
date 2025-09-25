@@ -4,7 +4,7 @@
   "short_name": "reports",
   "name": "Reports",
   "description": "",
-  "version": "100.1.3",
+  "version": "100.2.0",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,8 +16,30 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Mon Sep 22 2025 18:28:30 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Sep 25 2025 12:30:58 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "shortcuts": [
+    {
+      "name": "Standard report",
+      "url": "#/standard-report"
+    },
+    {
+      "name": "Data set report",
+      "url": "#/data-set-report"
+    },
+    {
+      "name": "Reporting rates summary",
+      "url": "#/reporting-rate-summary"
+    },
+    {
+      "name": "Resources",
+      "url": "#/resource"
+    },
+    {
+      "name": "Org unit distribution report",
+      "url": "#/organisation-unit-distribution-report"
+    }
+  ]
 }

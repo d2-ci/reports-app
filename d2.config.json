@@ -10,7 +10,29 @@
       "global": "window"
     }
   },
-  "version": "100.1.3",
+  "shortcuts": [
+    {
+      "name": "Standard report",
+      "url": "#/standard-report"
+    },
+    {
+      "name": "Data set report",
+      "url": "#/data-set-report"
+    },
+    {
+      "name": "Reporting rates summary",
+      "url": "#/reporting-rate-summary"
+    },
+    {
+      "name": "Resources",
+      "url": "#/resource"
+    },
+    {
+      "name": "Org unit distribution report",
+      "url": "#/organisation-unit-distribution-report"
+    }
+  ],
+  "version": "100.2.0",
   "description": "",
   "entryPoints": {
     "app": "index.html"
