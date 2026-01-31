@@ -1,0 +1,45 @@
+{
+  "app_hub_id": "b7e619e4-5b9f-4b8b-a4ff-9874f197ae39",
+  "appType": "APP",
+  "short_name": "reports",
+  "name": "Reports",
+  "description": "",
+  "version": "100.2.1",
+  "core_app": true,
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "manifest_generated_at": "Sat Jan 31 2026 23:12:35 GMT+0000 (Coordinated Universal Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "shortcuts": [
+    {
+      "name": "Standard report",
+      "url": "#/standard-report"
+    },
+    {
+      "name": "Data set report",
+      "url": "#/data-set-report"
+    },
+    {
+      "name": "Reporting rates summary",
+      "url": "#/reporting-rate-summary"
+    },
+    {
+      "name": "Resources",
+      "url": "#/resource"
+    },
+    {
+      "name": "Org unit distribution report",
+      "url": "#/organisation-unit-distribution-report"
+    }
+  ]
+}
